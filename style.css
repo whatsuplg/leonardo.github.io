@@ -1,0 +1,29 @@
+body{
+    background-color: #fff;
+}
+
+button{
+    font-size:15px;
+    font-family:'Comic Sans MS';
+    border-width:1px;
+    margin: 5px;
+    padding: 15px;
+    color:#fff;
+    border-color:#d02718;
+    font-weight:bold;
+    border-top-left-radius:18px;
+    border-top-right-radius:18px;
+    border-bottom-left-radius:18px;
+    border-bottom-right-radius:18px;
+    box-shadow: 3px 4px 0px 0px #8a2a21;
+    text-shadow: 0px 1px 0px #810e05;
+    background:linear-gradient(#c62d1f, #f24437);
+}
+  
+button:hover {
+    background: linear-gradient(#f24437, #c62d1f);
+}
+
+h1{
+    font-family: 'Trebuchet MS';
+}
